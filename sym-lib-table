@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Wago 233-502")(type "Legacy")(uri "D:/documents/personal/KiCad/libraries/Wago/2020-06-27_16-55-58/2020-06-27_16-55-58.lib")(options "")(descr ""))
+  (lib (name "Wago 233-503")(type "Legacy")(uri "D:/documents/personal/KiCad/libraries/Wago/2020-06-27_16-57-00/2020-06-27_16-57-00.lib")(options "")(descr ""))
+  (lib (name "Wago 233-505")(type "Legacy")(uri "D:/documents/personal/KiCad/libraries/Wago/2020-06-27_16-57-55/2020-06-27_16-57-55.lib")(options "")(descr ""))
+  (lib (name "Wago 233-504")(type "Legacy")(uri "D:/documents/personal/KiCad/libraries/Wago/2022-03-01_15-46-22/2022-03-01_15-46-22.lib")(options "")(descr ""))
+  (lib (name "PC817")(type "KiCad")(uri "D:/documents/personal/KiCad/libraries/PC817X1NIP1B/KiCADv6/2023-10-21_11-00-39.kicad_sym")(options "")(descr ""))
+  (lib (name "M7")(type "KiCad")(uri "D:/documents/personal/KiCad/libraries/M7/KiCADv6/2023-10-21_11-23-11.kicad_sym")(options "")(descr ""))
+)
